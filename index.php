@@ -1,6 +1,6 @@
 <?php
 
-/* test
+/* tes
  *ghghg - fjdgksdfhgsdkjhk
 |--------------------------------------------------------------------------
 | Inlcude the composer autoloader.
